@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Data+Scientist+%7C+AI+%2F+LLM+Engineer;Building+RAG+Pipelines+%26+GenAI+Apps;LangChain+%7C+OpenAI+%7C+FastAPI+%7C+Docker;Turning+Data+into+Intelligent+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Arivumathi15&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=arivumathi15&label=Profile+Views&color=70a5fd&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -95,10 +95,10 @@ print(me.motto())
 <div align="center">
 
 <a href="https://github.com/Arivumathi15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arivumathi15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arivumathi15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
 <a href="https://github.com/Arivumathi15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arivumathi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arivumathi15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -109,7 +109,7 @@ print(me.motto())
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arivumathi15&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=arivumathi15&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +119,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arivumathi15&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Arivumathi15)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arivumathi15&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/Arivumathi15)
 
 </div>
 
@@ -129,7 +129,7 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Arivumathi15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Arivumathi15)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=arivumathi15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Arivumathi15)
 
 </div>
 
@@ -262,8 +262,8 @@ print(me.motto())
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Arivumathi15@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Arivumathi15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arivumathi%20M%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Arivumathi15)
+[![Email](https://img.shields.io/badge/Email-arivumathimr@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arivumathimr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arivumathi%20M%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/arivumathi-m-r)
 [![GitHub](https://img.shields.io/badge/GitHub-Arivumathi15-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arivumathi15)
 
 </div>
