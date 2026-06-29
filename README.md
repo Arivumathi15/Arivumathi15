@@ -261,7 +261,12 @@ print(me.motto())
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=arivumathi15&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Arivumathi15)
+![Commits](https://img.shields.io/badge/Commits-MultiYear-70a5fd?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-Active-bf91f3?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/Stars-Earned-38bdae?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-Growing-f7c948?style=for-the-badge&logo=github&logoColor=black)
+![Pull Requests](https://img.shields.io/badge/Pull%20Requests-Merged-e06c75?style=for-the-badge&logo=github&logoColor=white)
+![Issues](https://img.shields.io/badge/Issues-Resolved-56b6c2?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
